@@ -1,4 +1,4 @@
-# CHRONOS — Ethereal Command Center
+# CALENDAR — CHRONOS THEME
 
 A polished calendar dashboard built with Next.js, matching the design spec from the reference image.
 
